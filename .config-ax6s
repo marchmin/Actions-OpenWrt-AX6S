@@ -17,13 +17,13 @@ CONFIG_LUCI_LANG_zh_Hans=y
 
 CONFIG_PACKAGE_openssh-sftp-server=y
 
+CONFIG_PACKAGE_ipset=y
+CONFIG_PACKAGE_ip-full=y
 CONFIG_PACKAGE_kmod-nft-netdev=y
 CONFIG_PACKAGE_kmod-nft-tproxy=y
 CONFIG_PACKAGE_kmod-tun=y
 
 #CONFIG_PACKAGE_luci-app-openclash=y
-#CONFIG_PACKAGE_ipset=y
-#CONFIG_PACKAGE_ip-full=y
 #CONFIG_PACKAGE_kmod-inet-diag=y
 #CONFIG_PACKAGE_luci-compat=y
 #CONFIG_PACKAGE_ruby=y
